@@ -3,7 +3,7 @@
 """
 import unittest
 from io import StringIO
-from models import storage
+from models.base_model import BaseModel
 from unittest.mock import patch
 from console import HBNBCommand
 
