@@ -17,4 +17,4 @@ from models.amenity import Amenity
 
 
 storage = FileStorage()
-storage.relo
+storage.reload()
