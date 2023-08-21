@@ -1,5 +1,8 @@
-header{
-    Background-color:#FF0000;
+header {
+    background-color: #FF0000;
     height: 70px;
-    width:100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
